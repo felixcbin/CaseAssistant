@@ -1,0 +1,164 @@
+[
+  {
+    "record_id": "COMM-001",
+    "caller": "P001",
+    "callee": "P002",
+    "time": "2026-02-18T23:42:00",
+    "duration": 312,
+    "type": "call",
+    "content": "张三拨打电话给李四，称\"货已到，安全\"，李四回应\"按老规矩办，月底前清账\"。"
+  },
+  {
+    "record_id": "COMM-002",
+    "caller": "P002",
+    "callee": "P001",
+    "time": "2026-02-25T01:15:00",
+    "duration": 187,
+    "type": "call",
+    "content": "李四凌晨致电张三，告知\"新一批下周到，数量翻倍\"，张三表示\"人手不够，要扩点\"。"
+  },
+  {
+    "record_id": "COMM-003",
+    "caller": "P001",
+    "callee": "P002",
+    "time": "2026-03-02T00:33:00",
+    "duration": 95,
+    "type": "message",
+    "content": "张三发送短信：\"老地方见，别走主线。\"李四回复：\"收到，约好的接头。\""
+  },
+  {
+    "record_id": "COMM-004",
+    "caller": "P002",
+    "callee": "P001",
+    "time": "2026-03-05T02:08:00",
+    "duration": 240,
+    "type": "call",
+    "content": "李四深夜致电张三，讨论\"边境查得紧，要换路线\"，并提到\"老吴那边安排车\"。"
+  },
+  {
+    "record_id": "COMM-005",
+    "caller": "P001",
+    "callee": "P002",
+    "time": "2026-03-08T23:50:00",
+    "duration": 156,
+    "type": "call",
+    "content": "张三致电李四：\"款已经打过去了，你那边尽快。\"李四答：\"放心，这批质量没问题。\""
+  },
+  {
+    "record_id": "COMM-006",
+    "caller": "P001",
+    "callee": "P002",
+    "time": "2026-03-12T01:22:00",
+    "duration": 78,
+    "type": "message",
+    "content": "张三发送短信：\"明天那个不能来，换个小孩送。\"李四回复：\"行，注意点。\""
+  },
+  {
+    "record_id": "COMM-007",
+    "caller": "P002",
+    "callee": "P001",
+    "time": "2026-03-14T23:38:00",
+    "duration": 203,
+    "type": "call",
+    "content": "案发前夜，李四致电张三提醒\"明天上午过卡，东西藏好点\"，张三应\"备胎仓里没事\"。"
+  },
+  {
+    "record_id": "COMM-008",
+    "caller": "P001",
+    "callee": "P006",
+    "time": "2026-02-20T19:15:00",
+    "duration": 65,
+    "type": "call",
+    "content": "张三联系周八：\"这周任务多，你那边赶紧出，钱转我账户。\"周八答应\"明天就转\"。"
+  },
+  {
+    "record_id": "COMM-009",
+    "caller": "P006",
+    "callee": "P001",
+    "time": "2026-02-21T20:30:00",
+    "duration": 42,
+    "type": "message",
+    "content": "周八发送转账截图，留言：\"哥，1万5已转，查收。\"张三回复：\"收到，继续。\""
+  },
+  {
+    "record_id": "COMM-010",
+    "caller": "P001",
+    "callee": "P006",
+    "time": "2026-03-01T21:05:00",
+    "duration": 88,
+    "type": "call",
+    "content": "张三吩咐周八：\"月底前再走两批，量别太大，分散点。\"周八应允。"
+  },
+  {
+    "record_id": "COMM-011",
+    "caller": "P006",
+    "callee": "P001",
+    "time": "2026-03-10T22:48:00",
+    "duration": 110,
+    "type": "call",
+    "content": "周八反映\"最近查得严，下线不敢接\"，张三答复\"那就用新人，那小孩能跑\"。"
+  },
+  {
+    "record_id": "COMM-012",
+    "caller": "P001",
+    "callee": "P005",
+    "time": "2026-03-06T17:20:00",
+    "duration": 35,
+    "type": "call",
+    "content": "张三致电小七：\"放学后到老地方，帮哥送个东西，给你300块。\"小七答应。"
+  },
+  {
+    "record_id": "COMM-013",
+    "caller": "P001",
+    "callee": "P005",
+    "time": "2026-03-09T18:10:00",
+    "duration": 52,
+    "type": "call",
+    "content": "张三让小七去虹口某小区门口取一个黑色包裹并送到指定地点，承诺事成给500元。"
+  },
+  {
+    "record_id": "COMM-014",
+    "caller": "P005",
+    "callee": "P001",
+    "time": "2026-03-11T19:45:00",
+    "duration": 28,
+    "type": "message",
+    "content": "小七发短信：\"哥，东西送到了，那人没给钱怎么办？\"张三回复：\"没事，回头一起算。\""
+  },
+  {
+    "record_id": "COMM-015",
+    "caller": "P001",
+    "callee": "P005",
+    "time": "2026-03-13T20:22:00",
+    "duration": 47,
+    "type": "call",
+    "content": "张三再次叫小七送货，并叮嘱\"别走大路，别跟陌生人说话\"。"
+  },
+  {
+    "record_id": "COMM-016",
+    "caller": "P002",
+    "callee": "P007",
+    "time": "2026-03-04T22:10:00",
+    "duration": 134,
+    "type": "call",
+    "content": "李四联系吴九：\"这批走老吴那条线，到瑞丽后等我电话。\"吴九回应\"车已备好\"。"
+  },
+  {
+    "record_id": "COMM-017",
+    "caller": "P008",
+    "callee": "P001",
+    "time": "2026-03-13T11:30:00",
+    "duration": 76,
+    "type": "call",
+    "content": "郑十告知张三\"货已从瑞丽发出，明早到A市\"，张三回复\"接车老地方\"。"
+  },
+  {
+    "record_id": "COMM-018",
+    "caller": "P004",
+    "callee": "P003",
+    "time": "2026-03-07T15:42:00",
+    "duration": 63,
+    "type": "call",
+    "content": "赵六联系王五：\"那笔钱已经分两笔走了，账面干净。\"王五回应\"好，下次别用同一账户\"。"
+  }
+]

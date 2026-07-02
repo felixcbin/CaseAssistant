@@ -1,0 +1,152 @@
+[
+  {
+    "record_id": "CR-001",
+    "person_id": "P004",
+    "crime_type": "盗窃",
+    "sentence": "有期徒刑1年，缓刑1年",
+    "prison_time": "2010-06至2011-06",
+    "release_date": "2011-06-20",
+    "court": "广东省广州市越秀区人民法院",
+    "remark": "在商场多次盗窃电子产品"
+  },
+  {
+    "record_id": "CR-002",
+    "person_id": "P004",
+    "crime_type": "故意伤害",
+    "sentence": "有期徒刑1年6个月",
+    "prison_time": "2013-09至2015-03",
+    "release_date": "2015-03-15",
+    "court": "广东省广州市番禺区人民法院",
+    "remark": "酒后斗殴致人轻伤"
+  },
+  {
+    "record_id": "CR-003",
+    "person_id": "P004",
+    "crime_type": "非法持有毒品",
+    "sentence": "有期徒刑2年",
+    "prison_time": "2016-11至2018-11",
+    "release_date": "2018-11-30",
+    "court": "A市闵行区人民法院",
+    "remark": "持有冰毒约50克"
+  },
+  {
+    "record_id": "CR-004",
+    "person_id": "P004",
+    "crime_type": "贩卖毒品",
+    "sentence": "有期徒刑2年6个月",
+    "prison_time": "2020-03至2022-09",
+    "release_date": "2022-09-10",
+    "court": "A市第一中级人民法院",
+    "remark": "本案关键前科，与刘十二同案同监，二人结为狱友"
+  },
+  {
+    "record_id": "CR-005",
+    "person_id": "P010",
+    "crime_type": "非法持有毒品",
+    "sentence": "有期徒刑1年",
+    "prison_time": "2014-08至2015-08",
+    "release_date": "2015-08-22",
+    "court": "A市闵行区人民法院",
+    "remark": "持有海洛因约20克"
+  },
+  {
+    "record_id": "CR-006",
+    "person_id": "P010",
+    "crime_type": "贩卖毒品",
+    "sentence": "有期徒刑3年",
+    "prison_time": "2017-05至2020-05",
+    "release_date": "2020-05-18",
+    "court": "A市第一中级人民法院",
+    "remark": "二次贩毒"
+  },
+  {
+    "record_id": "CR-007",
+    "person_id": "P010",
+    "crime_type": "贩卖毒品",
+    "sentence": "有期徒刑2年6个月",
+    "prison_time": "2020-03至2022-09",
+    "release_date": "2022-09-10",
+    "court": "A市第一中级人民法院",
+    "remark": "与赵六（P004）同案同监，结为狱友，出狱后仍保持联系"
+  },
+  {
+    "record_id": "CR-008",
+    "person_id": "P010",
+    "crime_type": "赌博",
+    "sentence": "拘役3个月，罚金1万元",
+    "prison_time": "2023-01至2023-04",
+    "release_date": "2023-04-05",
+    "court": "A市闵行区人民法院",
+    "remark": "开设地下赌场"
+  },
+  {
+    "record_id": "CR-009",
+    "person_id": "P002",
+    "crime_type": "走私普通货物",
+    "sentence": "有期徒刑2年，罚金5万元",
+    "prison_time": "2015-04至2017-04",
+    "release_date": "2017-04-12",
+    "court": "云南省德宏州中级人民法院",
+    "remark": "经瑞丽口岸走私电子产品"
+  },
+  {
+    "record_id": "CR-010",
+    "person_id": "P002",
+    "crime_type": "偷越国（边）境",
+    "sentence": "有期徒刑1年",
+    "prison_time": "2018-09至2019-09",
+    "release_date": "2019-09-20",
+    "court": "云南省德宏州中级人民法院",
+    "remark": "多次非法往返中缅边境"
+  },
+  {
+    "record_id": "CR-011",
+    "person_id": "P002",
+    "crime_type": "逃避海关监管",
+    "sentence": "罚金10万元，行政拘留15日",
+    "prison_time": "2021-07（行政拘留）",
+    "release_date": "2021-07-25",
+    "court": "瑞丽海关缉私分局",
+    "remark": "货物未申报，情节较轻"
+  },
+  {
+    "record_id": "CR-012",
+    "person_id": "P001",
+    "crime_type": "非法经营",
+    "sentence": "有期徒刑1年，缓刑2年",
+    "prison_time": "2019-02至2020-02（缓刑）",
+    "release_date": "2020-02-10",
+    "court": "A市静安区人民法院",
+    "remark": "无证经营烟草制品"
+  },
+  {
+    "record_id": "CR-013",
+    "person_id": "P001",
+    "crime_type": "非法持有毒品",
+    "sentence": "行政拘留15日，罚款2000元",
+    "prison_time": "2022-06（行政拘留）",
+    "release_date": "2022-06-22",
+    "court": "A市公安局静安分局",
+    "remark": "持有少量冰毒（不足10克），未达刑事立案标准"
+  },
+  {
+    "record_id": "CR-014",
+    "person_id": "P006",
+    "crime_type": "非法持有毒品",
+    "sentence": "行政拘留10日",
+    "prison_time": "2020-08（行政拘留）",
+    "release_date": "2020-08-18",
+    "court": "A市公安局虹口分局",
+    "remark": "在酒吧被查获持有少量摇头丸"
+  },
+  {
+    "record_id": "CR-015",
+    "person_id": "P008",
+    "crime_type": "危险驾驶",
+    "sentence": "拘役2个月，罚金5000元",
+    "prison_time": "2021-10至2021-12",
+    "release_date": "2021-12-05",
+    "court": "A市宝山区人民法院",
+    "remark": "醉驾营运货车被查获"
+  }
+]
