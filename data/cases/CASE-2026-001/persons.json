@@ -1,0 +1,122 @@
+[
+  {
+    "person_id": "P001",
+    "name": "张三",
+    "gender": "male",
+    "age": 35,
+    "id_card": "310104199001011234",
+    "address": "A市静安区南京西路1788号3栋502室",
+    "occupation": "无固定职业（自称个体经营）",
+    "phone": "13812345678",
+    "status": "suspect",
+    "remark": "主嫌疑人，本地分销节点，名下有一辆灰色面包车"
+  },
+  {
+    "person_id": "P002",
+    "name": "李四",
+    "gender": "male",
+    "age": 40,
+    "id_card": "530102198605156789",
+    "address": "云南省德宏州瑞丽市姐告路22号",
+    "occupation": "边境贸易商（自营）",
+    "phone": "13987654321",
+    "status": "suspect",
+    "remark": "上游供货，频繁往返于中缅边境，与张三通讯密切"
+  },
+  {
+    "person_id": "P003",
+    "name": "王五",
+    "gender": "male",
+    "age": 38,
+    "id_card": "320105198803082345",
+    "address": "A市浦东新区世纪大道88号金茂大厦32层",
+    "occupation": "投资公司法人",
+    "phone": "13701234567",
+    "status": "suspect",
+    "remark": "资金中转人，名下多家空壳公司，账户大额资金往来频繁"
+  },
+  {
+    "person_id": "P004",
+    "name": "赵六",
+    "gender": "male",
+    "age": 36,
+    "id_card": "440103199002004567",
+    "address": "A市闵行区莘庄镇都市路500号12栋3单元",
+    "occupation": "无业",
+    "phone": "13611112222",
+    "status": "suspect",
+    "remark": "前科人员，与王五多次共现，疑似资金清洗环节执行人"
+  },
+  {
+    "person_id": "P005",
+    "name": "小七",
+    "gender": "male",
+    "age": 16,
+    "id_card": "310115201008189012",
+    "address": "A市普陀区曹杨新村街道杏山路55号",
+    "occupation": "职校在读学生",
+    "phone": "15833334444",
+    "status": "witness",
+    "remark": "未成年人，被张三团伙诱骗参与分销送货，需启动未成年人保护程序"
+  },
+  {
+    "person_id": "P006",
+    "name": "周八",
+    "gender": "male",
+    "age": 28,
+    "id_card": "310106199802122345",
+    "address": "A市虹口区四川北路1800号华虹大厦18层",
+    "occupation": "酒吧服务员",
+    "phone": "13599998888",
+    "status": "suspect",
+    "remark": "张三下线分销，每月固定向张三账户转入小额款项"
+  },
+  {
+    "person_id": "P007",
+    "name": "吴九",
+    "gender": "male",
+    "age": 42,
+    "id_card": "530103198404277890",
+    "address": "云南省德宏州瑞丽市友谊路8号",
+    "occupation": "货车司机",
+    "phone": "13800007777",
+    "status": "suspect",
+    "remark": "李四的边境接头人，负责跨境运输交接"
+  },
+  {
+    "person_id": "P008",
+    "name": "郑十",
+    "gender": "male",
+    "age": 45,
+    "id_card": "320108198107056789",
+    "address": "A市宝山区共和新路5588号",
+    "occupation": "长途货运司机",
+    "phone": "13766665555",
+    "status": "suspect",
+    "remark": "运输司机，承接A市至瑞丽段运输任务，疑为毒品运输环节"
+  },
+  {
+    "person_id": "P009",
+    "name": "孙十一",
+    "gender": "female",
+    "age": 30,
+    "id_card": "310109199603123456",
+    "address": "A市静安区南京西路1788号3栋502室",
+    "occupation": "幼儿园教师",
+    "phone": "13822223333",
+    "status": "witness",
+    "remark": "张三女友，与张三同居，自述对张三涉案情况不知情"
+  },
+  {
+    "person_id": "P010",
+    "name": "刘十二",
+    "gender": "male",
+    "age": 39,
+    "id_card": "440106198712058901",
+    "address": "A市闵行区七宝镇漕宝路3000号",
+    "occupation": "无业",
+    "phone": "13544445555",
+    "status": "suspect",
+    "remark": "涉毒前科，赵六狱友，出狱后与赵六保持联系，疑似同伙"
+  }
+]

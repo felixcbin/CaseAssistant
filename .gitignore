@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 环境变量
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 数据缓存
+data/chroma_db/
+data/graphs/
+*.graphml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 报告输出
+*_report.md

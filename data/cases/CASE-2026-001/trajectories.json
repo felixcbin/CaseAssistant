@@ -1,0 +1,146 @@
+[
+  {
+    "trajectory_id": "TRJ-001",
+    "person_id": "P002",
+    "location": "云南省瑞丽市姐告口岸 → 缅北南坎",
+    "time": "2026-02-12T07:30:00",
+    "transport": "自驾（越野车）",
+    "note": "经姐告口岸出境，目的地缅北南坎，同行人吴九"
+  },
+  {
+    "trajectory_id": "TRJ-002",
+    "person_id": "P002",
+    "location": "缅北南坎 → 云南省瑞丽市姐告口岸",
+    "time": "2026-02-14T18:45:00",
+    "transport": "自驾（越野车）",
+    "note": "入境，车辆后备箱载有可疑货物，连夜转运至瑞丽仓库"
+  },
+  {
+    "trajectory_id": "TRJ-003",
+    "person_id": "P002",
+    "location": "云南省瑞丽市 → A市",
+    "time": "2026-02-16T09:00:00",
+    "transport": "长途卧铺客车",
+    "note": "瑞丽长途客运站出发至A市，疑似送货"
+  },
+  {
+    "trajectory_id": "TRJ-004",
+    "person_id": "P002",
+    "location": "云南省瑞丽市姐告口岸 → 缅北木姐",
+    "time": "2026-03-03T06:20:00",
+    "transport": "自驾（越野车）",
+    "note": "出境接头，与吴九同行"
+  },
+  {
+    "trajectory_id": "TRJ-005",
+    "person_id": "P002",
+    "location": "缅北木姐 → 云南省瑞丽市",
+    "time": "2026-03-05T20:10:00",
+    "transport": "自驾（越野车）",
+    "note": "入境，同行两名陌生男子，疑为运输马仔"
+  },
+  {
+    "trajectory_id": "TRJ-006",
+    "person_id": "P002",
+    "location": "云南省瑞丽市 → A市",
+    "time": "2026-03-11T11:00:00",
+    "transport": "飞机（MU5823）",
+    "note": "瑞丽芒市机场飞往A市，行李中有未登记纸箱"
+  },
+  {
+    "trajectory_id": "TRJ-007",
+    "person_id": "P002",
+    "location": "A市 → 云南省昆明市",
+    "time": "2026-03-13T15:30:00",
+    "transport": "飞机（CA1756）",
+    "note": "案发前由A市返回云南，疑似规避查缉"
+  },
+  {
+    "trajectory_id": "TRJ-008",
+    "person_id": "P003",
+    "location": "A市静安区·静安茶楼（南京西路1788号附楼）",
+    "time": "2026-02-10T19:00:00",
+    "transport": "自驾（沪A·5P8K2）",
+    "note": "进入茶楼包厢，停留约2小时"
+  },
+  {
+    "trajectory_id": "TRJ-009",
+    "person_id": "P004",
+    "location": "A市静安区·静安茶楼（南京西路1788号附楼）",
+    "time": "2026-02-10T19:05:00",
+    "transport": "出租车",
+    "note": "与王五同日同时段抵达同一茶楼，进入同一包厢"
+  },
+  {
+    "trajectory_id": "TRJ-010",
+    "person_id": "P003",
+    "location": "A市闵行区·汤泉汇洗浴中心（都市路500号）",
+    "time": "2026-02-20T20:30:00",
+    "transport": "自驾（沪A·5P8K2）",
+    "note": "进入洗浴中心VIP区"
+  },
+  {
+    "trajectory_id": "TRJ-011",
+    "person_id": "P004",
+    "location": "A市闵行区·汤泉汇洗浴中心（都市路500号）",
+    "time": "2026-02-20T20:35:00",
+    "transport": "步行",
+    "note": "住所紧邻洗浴中心，与王五同时段出现于VIP区"
+  },
+  {
+    "trajectory_id": "TRJ-012",
+    "person_id": "P003",
+    "location": "A市浦东新区·世纪汇写字楼（世纪大道88号32层）",
+    "time": "2026-03-01T14:00:00",
+    "transport": "自驾（沪A·5P8K2）",
+    "note": "前往自有公司办公地点"
+  },
+  {
+    "trajectory_id": "TRJ-013",
+    "person_id": "P004",
+    "location": "A市浦东新区·世纪汇写字楼（世纪大道88号32层）",
+    "time": "2026-03-01T14:10:00",
+    "transport": "地铁2号线",
+    "note": "与王五同日同时段抵达同一写字楼，疑似资金交接"
+  },
+  {
+    "trajectory_id": "TRJ-014",
+    "person_id": "P003",
+    "location": "苏州市姑苏区·平江路某精品酒店",
+    "time": "2026-03-08T18:00:00",
+    "transport": "自驾（沪A·5P8K2）",
+    "note": "跨城出行，入住酒店一晚"
+  },
+  {
+    "trajectory_id": "TRJ-015",
+    "person_id": "P004",
+    "location": "苏州市姑苏区·平江路某精品酒店",
+    "time": "2026-03-08T18:15:00",
+    "transport": "高铁G7321+出租车",
+    "note": "与王五同日同时段入住同一酒店，跨城共现"
+  },
+  {
+    "trajectory_id": "TRJ-016",
+    "person_id": "P001",
+    "location": "A市静安区 → A市虹口区·某小区门口",
+    "time": "2026-03-09T18:00:00",
+    "transport": "自驾（沪C·8K2Z9）",
+    "note": "案发前送货途中，与小七接头取货"
+  },
+  {
+    "trajectory_id": "TRJ-017",
+    "person_id": "P001",
+    "location": "A市静安区南京西路1788号 → A市G42高速A市南收费站",
+    "time": "2026-03-15T06:40:00",
+    "transport": "自驾（沪C·8K2Z9）",
+    "note": "案发当日出行，于收费站被查获后弃车逃逸"
+  },
+  {
+    "trajectory_id": "TRJ-018",
+    "person_id": "P008",
+    "location": "云南省瑞丽市 → A市",
+    "time": "2026-03-13T06:00:00",
+    "transport": "厢式货车",
+    "note": "承接瑞丽至A市运输任务，货物疑为毒品批次，3月15日抵达A市后被查获"
+  }
+]
